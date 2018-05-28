@@ -1,0 +1,12 @@
+# currently installed version
+#Mon May 28 18:04:10 IST 2018
+Program-Host=subgit.com
+Manifest-Version=1.0
+Program-CodeName='Bobique'
+Program-Name=subgit
+Build-Number=3818
+Program-Readable-Name=SubGit
+Build-Time=2018-03-29T15\:33\:20
+Program-Script-Name=subgit
+Repository-Format=1
+Build-Version=3.3.1

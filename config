@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = true
+	bigFileThreshold = 1m
+	autocrlf = false
+	eol = lf
+	symlinks = true
+[gc]
+	autodetach = false
+	auto = 0
+[svn]
+	pathnameencoding = UTF-8
+[remote "origin"]
+	url = https://github.com/DipakTimba/Test.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

@@ -1,0 +1,30 @@
+[2018-05-28 18:05:33.726][test] SubGit version 3.3.1 ('Bobique')
+[2018-05-28 18:05:33.726][test] Command name: test.
+[2018-05-28 18:05:33.726][test] Current user: quipment.
+[2018-05-28 18:05:33.726][test] Loaded config option daemon.pidFile = 'subgit/daemon.pid'
+[2018-05-28 18:05:33.726][test] Loaded config option daemon.classpath = 'subgit/lib'
+[2018-05-28 18:05:33.726][test] Loaded config option daemon.javaOptions = 'null'
+[2018-05-28 18:05:33.726][test] Loaded config option core.logs = 'subgit/logs'
+[2018-05-28 18:05:33.726][test] Loaded config option core.errorReport = 'null'
+[2018-05-28 18:05:33.726][test] Loaded config option core.javaHome = 'null'
+[2018-05-28 18:05:33.726][test] Loaded config option daemon.javaHome = 'null'
+[2018-05-28 18:05:33.726][test] Environment variable JAVA_HOME = '/usr/lib/jvm/java-8-oracle/jre'
+[2018-05-28 18:05:33.726][test] Obtaining file lock on '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid'.
+[2018-05-28 18:05:33.726][test] Obtained file lock on '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid'.
+[2018-05-28 18:05:33.726][test] Pid file does not exist: '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid'.
+[2018-05-28 18:05:33.726][test] Failed to delete pid file '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid', it doesn't exist.
+[2018-05-28 18:05:33.726][test] Launching daemon, classpath: /home/quipment/Desktop/myrepo.git/subgit/lib/subgit-3.3.1_3818_fat.jar
+    java options: -noverify -client -Djava.awt.headless=true -Djna.nosys=true
+    java command: /usr/lib/jvm/java-8-oracle/jre/bin/java
+launch timelimit: 1527510943726
+ repository path: /home/quipment/Desktop/myrepo.git
+[2018-05-28 18:05:33.726][test] Waiting for pid file '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid' creation.
+[2018-05-28 18:05:34.182][test] Daemon info (6387,54126,127.0.0.1) from file '/home/quipment/Desktop/myrepo.git/subgit/daemon.pid'.
+[2018-05-28 18:05:34.182][test] Trying to connect to daemon 127.0.0.1:54126.
+[2018-05-28 18:05:34.186][test] Read '(version (3.3.1 3818 ))'.
+[2018-05-28 18:05:34.186][test] Daemon version is '3.3.1-3818'.
+[2018-05-28 18:05:34.186][test] Trying to release lock '/home/quipment/Desktop/myrepo.git/subgit/daemon.lock'.
+[2018-05-28 18:05:34.186][test] Released lock '/home/quipment/Desktop/myrepo.git/subgit/daemon.lock'.
+[2018-05-28 18:05:34.186][test] Sent '(test (/home/quipment/Desktop/myrepo.git )0:)'.
+[2018-05-28 18:05:34.191][test] Received '(ok (test ))'.
+[2018-05-28 18:05:34.191][test] 

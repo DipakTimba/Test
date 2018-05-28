@@ -1,0 +1,5 @@
+[svn-git-remote "svn"]
+	uuid = 7853c0c9-1233-4abc-bd81-f2005e0a95fe
+	reposRoot = http://192.168.150.93:8080/qim
+	branches-maxRev = 20
+	tags-maxRev = 20
